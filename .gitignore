@@ -1,0 +1,3 @@
+node_modules/
+YOUR_SERVICE_ACCOUNT_KEY.json
+.env
